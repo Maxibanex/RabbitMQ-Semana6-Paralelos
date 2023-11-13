@@ -1,0 +1,14 @@
+{
+  "name": "actividad-semana-6",
+  "version": "1.0.0",
+  "description": "mensaje por rabbit usando Node JS",
+  "main": "proveedor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maxibanex Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}
